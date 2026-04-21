@@ -118,10 +118,10 @@ These problems were more common with naive prompts and less common with controll
 7. Export results for presentation
 
 ## GitHub URL
-Add your GitHub repository link here.
+https://github.com/Ibrahim17A/Quiz-Challenge-1 
 
 ## Demo Video URL
-Add your demo video link here.
+https://youtu.be/ELXB5Kzanhc
 
 ## AI Tool Disclosure
 AI tools used:
